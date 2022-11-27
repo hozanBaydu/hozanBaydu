@@ -26,6 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hozanbaydu&" alt="hozanbaydu" /></p>
 
-Bazı kullanıcı arayüz tasarımlarım:
+
+<h1 align="center">Bazı kullanıcı arayüz tasarımlarım:</h1>
+
 
 <p><img align="left" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtF1awU3UKgKb545rzjjZy08tMeP31i9kPUGJD91B9q2AJUJsGhnbNdH1R0n7mVZpsz09EYiSZ1ho490ujf3huvgn9kIGxryIpHKqSyrI_yAUZotV318Vge1fOZ3UGFvg666Zs1sBvfCd_9-EhdhRRze2wCOegLF7xFYm1rajiz5-xKdU_TZmnprv5/s600/yay%C4%B1n3.png" alt="hozanbaydu" /></p>
