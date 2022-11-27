@@ -28,4 +28,4 @@
 
 Bazı kullanıcı arayüz tasarımlarım:
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=hozanbaydu&show_icons=true&locale=en&layout=compact](https://avatars.githubusercontent.com/u/113553307?v=4)" alt="hozanbaydu" /></p>
+<p><img align="left" src="https://avatars.githubusercontent.com/u/113553307?v=4" alt="hozanbaydu" /></p>
