@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hozanbaydu&show_icons=true&locale=en" alt="hozanbaydu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hozanbaydu&" alt="hozanbaydu" /></p>
+
+Tüm projelerimi bulun: [https://github.com/hozanBaydu](https://github.com/hozanBaydu)
