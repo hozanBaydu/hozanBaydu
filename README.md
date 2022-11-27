@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hozanbaydu" alt="hozanbaydu" /></a> </p>
 
-- 🌱 Güncel olarak öğrendiğim şey: **Swift**
+- 🌱 Güncel olarak öğrendiğim şey: **Kotlin Multiplatform**
 
 - 👨‍💻 Tüm projelerimi bulun: [https://github.com/hozanBaydu](https://github.com/hozanBaydu)
 
