@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋,Ben Hozan Baydu</h1>
-<h3 align="center">Mobil uygulama geliştiricisiyim.</h3>
+<h3 align="center">Mobil uygulama geliştiricisiyim.İki yıldır android uygulama geliştirmekteyim.Google'ın önerdiği en güncel teknolojileri kullanarak uygulama ve kütüphane geliştirip bunları çeşitli platformlarda insanların kullanımına sunmaktayım.Bunlara ek olarak yaptığım uygulamalarda kullanıcı ara yüzü ve kullanıcı deneyimini en yüksek seviyede tutmak için Adobe xd,Figma ve Sketchbook gibi programlar kullanmaktayım.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hozanbaydu&label=Profile%20views&color=0e75b6&style=flat" alt="hozanbaydu" /> </p>
 
